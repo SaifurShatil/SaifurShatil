@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - Kaggle id: https://cutt.ly/lQH5irH
+- LinkedIn: https://cutt.ly/YQKO9g6
 
 <!---
 SaifurShatil/SaifurShatil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
